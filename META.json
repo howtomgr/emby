@@ -1,0 +1,62 @@
+{
+  "category": "media-servers",
+  "created_date": "2025-09-15T22:48:57.516809",
+  "default_ports": [
+    80,
+    443,
+    8096,
+    8920
+  ],
+  "dependencies": [],
+  "description": "emby is a free and open-source media server system. Emby provides media streaming and management, serving as an alternative to Plex with more open components",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/media-servers/emby",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/media-servers/emby",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.516833",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "emby",
+  "repository_url": "https://github.com/howtomgr/emby",
+  "spec_version": "2.0",
+  "subcategory": "media-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "media-servers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "emby Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/media-servers/emby"
+}
